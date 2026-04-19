@@ -1,0 +1,4 @@
+src/interfaces/IMigratorV1.sol
+src/interfaces/IStakingV1.sol
+src/Staking.sol
+

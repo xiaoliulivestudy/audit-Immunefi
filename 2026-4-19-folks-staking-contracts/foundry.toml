@@ -1,0 +1,14 @@
+[profile.default]
+src = "src"
+out = "out"
+libs = ["lib"]
+solc_version = "0.8.30"
+# 在配置文件中设置安静模式
+# quiet = true
+# 或设置静默模式
+# silent = true
+
+[invariant]
+runs = 256
+depth = 32
+fail_on_revert = true
